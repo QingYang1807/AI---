@@ -1,0 +1,2 @@
+替换pipline代码中的模型，对比不同模型在相同任务上的性能表现。
+你可以在 Hugging Face Models 中找到适合你的模型： https://huggingface.co/models
