@@ -1,0 +1,2 @@
+1. 基于 data 目录下的数据训练 ChatGLM3 模型，使用 inference Notebook 对比微调前后的效果。
+2.（可选）：将 gen_dataset Notebook 改写为 py 文件。
